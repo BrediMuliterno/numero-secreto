@@ -3,7 +3,7 @@ Este projeto foi utilizado durante o curso de Git e GitHub: compartilhando e col
 ## Nele você pode conferir
 
 - Compartilhando projetos
-- Realziando commits
+- Realizando commits
 - Resolvendo conflitos
 - Desfazendo commits
 - Resetando commits
